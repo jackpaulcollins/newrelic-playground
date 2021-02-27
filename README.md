@@ -9,6 +9,6 @@ To use:
 
 To see Data in New Relic
 
-Have Jack add you to Account 2991300 (or replace the snippet in index.html of ui with your own NR info)
+Have Jack add you to Account 2991300 (or replace the snippet in index.html of ui with your own NR Browser info)
 
 Happy hacking!
